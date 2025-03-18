@@ -3,19 +3,6 @@
 
 An Ecommerce  Application built with React, Fake store api and Flutterwave SDK for payment integration.
 
-
-
-e
-```Javascript
-    export const cartSlice = createSlice({
-  name: "cart",
- 
-     
-
-
-
-
-
 To check if you have node installed run:
 
 ```git 
@@ -29,7 +16,7 @@ if you don't have node js installed get it here.
 - [ ] Clone the Repository  
 
 ```
-    $ git clone https://github.com/nathan-somto/smstore.git
+    $ git clone https://github.com/Suvarna2025/SmStore-main.git
 ```
 
 - [ ] Enter into the directory
